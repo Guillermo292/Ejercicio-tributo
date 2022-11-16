@@ -1,0 +1,19 @@
+.banner-area {
+    width: 900px;
+    height: auto;
+}
+
+.banner-area img {
+    width: 100%;
+    height: auto;
+}
+
+.banner-area h2 {
+    position: absolute;
+    float: right;
+    color: white;
+    top: 27%;
+    right: 1%;
+    left: 59%;
+    text-size-adjust: 50%;
+}
