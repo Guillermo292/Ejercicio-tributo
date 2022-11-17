@@ -1,0 +1,15 @@
+.footer {
+    width: 100%;
+    height: 230px;
+    background-color: #fe0000;
+    color: white;
+    text-align: center;
+    margin-top:-9.95px;
+    padding-top: 45px;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.footer h2:hover {
+    color: #2b1b1b;
+}
