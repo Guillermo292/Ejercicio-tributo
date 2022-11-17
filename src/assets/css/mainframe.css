@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Rubik Mono One', sans-serif;
+    width: 900px;
+    margin: auto;
+}
+
+p {
+    font-weight: normal;
+    font-size: 14px;
+}
+
+h1, h2, h3 {
+    font-family: 'Rubik Mono One', sans-serif;
+    font-weight: 700;
+}

@@ -1,0 +1,24 @@
+/*MAIN CSS STYLES (INDEX + SECONDARYPAGES)*/
+
+/*CORE*/
+/*------------------------------------*/
+@import "mainframe.css";
+@import "header.css";
+
+/*FOR BANNER INDEX ONLY*/
+/*------------------------------------*/
+@import "banner.css";
+
+/*FOR CARDS INDEX ONLY*/
+/*------------------------------------*/
+@import "cards.css";
+
+/*ALL PAGES FOOTER*/
+@import "footer.css";
+/*------------------------------------*/
+
+/*ADDITIONAL PAGES CSS*/
+/*------------------------------------*/
+@import "history.css";
+@import "best-combats.css";
+@import "highlights.css";
